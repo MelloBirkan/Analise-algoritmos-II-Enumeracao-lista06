@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "enumeracao_lista06",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "enumeracao_lista06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enumeracao_lista06-Debug-0a20c339df3dedc9c47c.json",
+					"name" : "enumeracao_lista06",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/marcellogonzattobirkan/Library/Mobile Documents/com~apple~CloudDocs/Faculdade/6 Semestre/Projeto-e-Analise-II/enumeracao-lista06/cmake-build-debug",
+		"source" : "/Users/marcellogonzattobirkan/Library/Mobile Documents/com~apple~CloudDocs/Faculdade/6 Semestre/Projeto-e-Analise-II/enumeracao-lista06"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

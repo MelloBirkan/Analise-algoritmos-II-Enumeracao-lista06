@@ -1,0 +1,3 @@
+/Users/marcellogonzattobirkan/Library/Mobile Documents/com~apple~CloudDocs/Faculdade/6 Semestre/Projeto-e-Analise-II/enumeracao-lista06/cmake-build-debug/CMakeFiles/enumeracao_lista06.dir
+/Users/marcellogonzattobirkan/Library/Mobile Documents/com~apple~CloudDocs/Faculdade/6 Semestre/Projeto-e-Analise-II/enumeracao-lista06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcellogonzattobirkan/Library/Mobile Documents/com~apple~CloudDocs/Faculdade/6 Semestre/Projeto-e-Analise-II/enumeracao-lista06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
